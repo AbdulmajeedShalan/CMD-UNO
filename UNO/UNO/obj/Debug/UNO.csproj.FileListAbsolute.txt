@@ -1,0 +1,6 @@
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\bin\Debug\UNO.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\obj\Debug\UNO.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\bin\Debug\UNO.exe
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\bin\Debug\UNO.pdb
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\obj\Debug\UNO.exe
+c:\users\pc\documents\visual studio 2015\Projects\UNO\UNO\obj\Debug\UNO.pdb
